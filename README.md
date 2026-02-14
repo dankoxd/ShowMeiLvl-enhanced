@@ -1,9 +1,8 @@
 ﻿# ShowMeiLvl Enhanced
 
-This is a enhanced version of **BlueAo's** ShowMeiLvl addon originally from [this](https://forum.warmane.com/showthread.php?t=412904&p=3032778&viewfull=1#post3032778) post.
+This is a enhanced version of **BlueAo's** ShowMeiLvl addon originally from [this](https://forum.warmane.com/showthread.php?t=412904&p=3032778&viewfull=1#post3032778) post. With this addon, you can see clearly if the person is correctly gemmed or enchanted.
 
 [Download Here](https://github.com/dankoxd/ShowMeiLvl-enhanced/releases/download/1.0/ShowMeiLvl.zip).
-With this addon, you can see clearly if the person is correctly gemmed or enchanted.
 
 
 If you find any bug or you have improvement ideas, contact me on Discord:
