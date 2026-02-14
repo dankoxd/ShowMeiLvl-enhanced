@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ShowMeiLvl
+## Author: |cff7f7fff BlueAo|r from Warmane & |cff00ffff zombik| 
+## Notes: Shows iLvl, gems and enchants on inspect.                        Author:|cff7f7fff BlueAo|r from Warmane. Enhanced by:|cff00ffff zombik|r
+## Version: 1.1
+
+ShowMeiLvl.lua
