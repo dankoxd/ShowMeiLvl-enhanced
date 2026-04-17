@@ -10,13 +10,12 @@ If you find any bug or you have improvement ideas, contact me on Discord:
 ## New Functions
 - Shows missing enchants or gems on inspected players.
 - Enchants and gems are distinguished by colours.
-- Checks for useless enchants/gems (e.g Mage with Strength, Attack Power,...).
+- Checks for useless enchants/gems. *(e.g Mage with Strength, Attack Power,...)*
 - Report button in top-right of inspect frame creates a report of currently inspected player to different chats.
 
 ## Known Bugs
 - The database of enchants isn't complete (for such case, it displays "Enchanted").
-- The report might not be correctly generated.
-- Displayed enchants and gems may disappear for a second. This is caused by the Warmane server unpredictable behaviour. 
+- Displayed enchants and gems may disappear for a second. This is caused by the Warmane server unpredictable behaviour.
 
 ## Gallery
 ![ShowMeiLvl example](https://i.ibb.co/mCQwth5R/Cn-P-03022026-230903.png)
